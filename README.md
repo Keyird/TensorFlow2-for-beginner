@@ -14,4 +14,5 @@
 环境配置参考教程：[Anaconda3+tensorflow2.0.0+PyCharm安装与环境搭建](https://blog.csdn.net/wjinjie/article/details/104342769)
 
 ## 持续更新中
-[TensorFlow2 初级教程（1）：快速入门](https://blog.csdn.net/wjinjie/article/details/106600468)
+[TensorFlow2 初级教程（1）：快速入门](https://blog.csdn.net/wjinjie/article/details/106600468)  
+[TensorFlow2 初级教程（2）：回归问题——汽车燃油效率预测](https://blog.csdn.net/wjinjie/article/details/107022406)
