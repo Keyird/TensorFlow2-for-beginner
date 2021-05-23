@@ -12,8 +12,8 @@
  - TensorFlow>=2.0
  
 ## 中文教程
-我的博客：[【AI 菌】](https://blog.csdn.net/wjinjie/article/details/106600468)  
-环境配置参考教程1：[Anaconda3+tensorflow2.0.0+PyCharm安装与环境搭建](https://blog.csdn.net/wjinjie/article/details/104342769)
+我的博客：[【AI 菌】](https://blog.csdn.net/wjinjie?spm=1001.2101.3001.5343)  
+环境配置参考教程1：[Anaconda3+tensorflow2.0.0+PyCharm安装与环境搭建](https://blog.csdn.net/wjinjie/article/details/104342769)  
 环境配置参考教程2:[Anaconda3+PyCharm+Cuda10.1+Cudnn7.6+tensorflow2.2安装与配置教程](https://ai-wx.blog.csdn.net/article/details/107205744)
 
 ## 持续更新中
